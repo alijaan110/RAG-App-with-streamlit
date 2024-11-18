@@ -84,5 +84,5 @@ if user_input:
         st.markdown(assistant_response)
         st.session_state.chat_history.append({"role": "assistant", "content": assistant_response})
 
-main.py
-Displaying main.py.
+# main.py
+# Displaying main.py.
